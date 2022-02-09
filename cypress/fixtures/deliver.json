@@ -1,0 +1,49 @@
+{
+  "signup": {
+    "name": "Fabiola Spredemann",
+    "cpf": "12345678922",
+    "email": "papito@hotmail.com",
+    "whatsapp": "47999999999",
+    "address": {
+      "postalcode": "89074400",
+      "street": "Rua Christiano Karsten",
+      "number": "1000",
+      "details": "apto 2",
+      "district": "Testo Salto",
+      "city_state": "Blumenau/SC"
+    },
+    "cnh": "cnh-digital.jpg"
+  },
+
+  "cpf_inv": {
+    "name": "Fabiola Spredemann",
+    "cpf": "1234jjjjj",
+    "email": "papito@hotmail.com",
+    "whatsapp": "47999999999",
+    "address": {
+      "postalcode": "89074400",
+      "street": "Rua Christiano Karsten",
+      "number": "1000",
+      "details": "apto 2",
+      "district": "Testo Salto",
+      "city_state": "Blumenau/SC"
+    },
+    "cnh": "cnh-digital.jpg"
+  },
+
+  "email_inv": {
+    "name": "Fabiola Spredemann",
+    "cpf": "12345678988",
+    "email": "papito.com.br",
+    "whatsapp": "47999999999",
+    "address": {
+      "postalcode": "89074400",
+      "street": "Rua Christiano Karsten",
+      "number": "1000",
+      "details": "apto 2",
+      "district": "Testo Salto",
+      "city_state": "Blumenau/SC"
+    },
+    "cnh": "cnh-digital.jpg"
+  }
+}
